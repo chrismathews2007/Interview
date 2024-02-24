@@ -84,7 +84,8 @@
     - Minimize the usage of `var` due to its function-level scope and potential
       issues with hoisting.
 
-12. **How does the use of `let` and `const` contribute to writing safer and more     predictable code?**
+12. **How does the use of `let` and `const` contribute to writing safer and more
+    predictable code?**
 
     - By providing block-level scoping, `let` and `const` reduce the risk of
       unintended variable access and mutation.
