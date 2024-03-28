@@ -1,4 +1,8 @@
-export function countVowels(str){
+
+
+//countVowels
+
+function countVowels(str){
     const vowels = ['a','e','i','o','u']
     let count = 0;
 
@@ -9,3 +13,7 @@ export function countVowels(str){
     }
     return console.log(`${count} Vowels in ${str}` )
 }
+
+countVowels("Madhu Sudhana RAo")
+
+

@@ -1,3 +1,6 @@
+
+// reverseWords
+
 export function reverseWords(str){
     const words = str.split(" ")
 
@@ -7,3 +10,4 @@ export function reverseWords(str){
 
     return console.log("reverseWords: ", reversedSenetence)
 }
+

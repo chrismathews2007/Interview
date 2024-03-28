@@ -1,3 +1,6 @@
+
+// smallestWord
+
 export function smallestWord(sentence) {
     const words = sentence.split(" ");
     //! Initialize smallest with the first word from the sentence
@@ -11,3 +14,5 @@ export function smallestWord(sentence) {
 
     return smallest;
 }
+
+

@@ -1,3 +1,6 @@
+
+// removeDuplicates
+
 export function removeDuplicates(arr){
    return console.log("removeDuplicates: ", [...new Set(arr)])
 }
@@ -13,3 +16,7 @@ export function removeDuplicatesLoop(arr){
 
     return console.log("removeDuplicatesLoop: ", uniqueArray)
 }
+
+
+
+
